@@ -34,9 +34,14 @@ for _ in range(5000):
     l, r, _ = sess.run([loss, result, step])
     print(l, r[0,0])
 
+plt.matshow(a)
+plt.colorbar()
+plt.title('a matrix color')
+
 plt.matshow(r)
 plt.colorbar()
+plt.title('r matrix color')
 ```
 
-![矩阵分解结果]({{ "/images/未命名1519905111.png" | absolute_url }})
-![矩阵分解结果](/images/未命名1519905111.png)
+![矩阵分解结果](/images/a.png)
+![矩阵分解结果](/images/r.png)
