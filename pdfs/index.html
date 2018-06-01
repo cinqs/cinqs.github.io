@@ -6,7 +6,7 @@ layout: default
   {% for pdf in site.static_files %}
     {% if pdf.path contains 'pdfs' %}
     <div class="entry">
-      <a href="{{site.baseurl}}{{pdf.path}}">{{pdf.name}}</a>
+      <a href="{{site.baseurl}}{{pdf.path}}">{{pdf.basename}}</a>
     </div>
     {% endif %}
   {% endfor %}
