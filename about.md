@@ -10,6 +10,6 @@ Hi, There
 
 *Ci Song / 宋辞*
 
-> Well, it is now more obvious that
->
-> the most difficult part of RL is to design the components, somehow, the algorithm part is not that important as I used to think of
+>  ***Well, it is now more obvious that***
+> 
+>  *the most difficult part of RL is to design the components, somehow, the algorithm part is not that important as I used to think of*
