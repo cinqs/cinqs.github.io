@@ -12,4 +12,6 @@ Hi, There
 
 >  ***Well, it is now more obvious that***
 > 
->  *the most difficult part of RL is to design the components, somehow, the algorithm part is not that important as I used to think of*
+>  - *the most difficult part of RL is to design the components, somehow, the algorithm part is not that important as I used to think of*
+>
+>  - *through the work on the rubik\'s cube applying RL, I found that Q-learning is absolutely the first option you should try when the situation you are dealing with is limited. Q-learning is easy, fast, and reasonable for explanation*
