@@ -14,6 +14,8 @@ Hi, There
 
 >  ***Well, it is now more obvious that***
 >
+>  - *Well, life is short, write C++!*
+>
 >  - *Straight Answer first, instead, indirect details come second*
 >
 >  - *the most difficult part of RL is to design the components, somehow, the algorithm part is not that important as I used to think of*
