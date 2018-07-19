@@ -8,7 +8,7 @@ Hi, There
 
 一份简要的[简历](/cv/cv-modified-chinese.pdf)
 
-[LinkedIn](http://www.linkedin.com/in/abnersoong) \| [GitHub](https://github.com/cinqs) \| [dockers](https://hub.docker.com/u/cinqsoong/) \| ci.song {at} aliyun.com
+[LinkedIn](http://www.linkedin.com/in/abnersoong) \| [GitHub](https://github.com/cinqs) \| [dockers](https://hub.docker.com/u/cinqsoong/) \| ci.song {at} aliyun {dot} com
 
 *Ci Song / 宋辞*
 
