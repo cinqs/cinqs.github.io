@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Good old algos / techs
+title: Good old algos and techs
 tags: [blog, algorithms]
 ---
 
