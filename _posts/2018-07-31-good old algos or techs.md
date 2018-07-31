@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: post
 title: Good old algos and techs
 tags: [blog, algorithms]
 ---
