@@ -23,4 +23,7 @@ tags: [blog, algorithms]
   应用：
   
   * 非常广！
-  * 除了基于BP的神经网络之外，很多人也在研究基于遗传算法的神经网络[https://arxiv.org/pdf/1711.07655.pdf](https://arxiv.org/pdf/1711.07655.pdf)
+  * 除了基于BP的神经网络之外，很多人也在研究基于遗传算法的神经网络
+  
+    + [https://arxiv.org/pdf/1711.07655.pdf](https://arxiv.org/pdf/1711.07655.pdf)
+    + [http://homepages.inf.ed.ac.uk/pkoehn/publications/gann94.pdf](http://homepages.inf.ed.ac.uk/pkoehn/publications/gann94.pdf)
