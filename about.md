@@ -12,6 +12,18 @@ Hi, There
 
 *Ci Song / 宋辞*
 
+经常被问起 *CINQS* 是什么意思，你看下面 / frequently been asked why *CINQS*:
+
+```py
+
+print french_to_num(CINQ)
+# 5
+print num_to_bin(5)
+# 101
+print num_to_roman(101)
+# CI
+```
+
 >  ***Well, it is now more obvious that***
 >
 >  - *Well, life is short, write C++!*
