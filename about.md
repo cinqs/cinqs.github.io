@@ -10,7 +10,9 @@ Hi, There
 
 [LinkedIn](http://www.linkedin.com/in/abnersoong) \| [GitHub](https://github.com/cinqs) \| [dockers](https://hub.docker.com/u/cinqsoong/) \| ![email_pic](/images/email.png)
 
-*Ci Song / 宋辞*
+**Ci Song / 宋辞**
+
+- Data Mining Engineer @ [ByteDance](https://bytedance.com/) Beijing China
 
 经常被问起 *CINQS* 是什么意思，你看下面 / frequently been asked why *CINQS*:
 
