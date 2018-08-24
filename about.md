@@ -28,6 +28,8 @@ print num_to_roman(101)
 
 >  ***Well, it is now more obvious that***
 >
+>  - Modelling is the first priority you should take seriously.
+>
 >  - *Well, life is short, write C++!*
 >
 >  - *Straight Answer first, instead, indirect details come second*
