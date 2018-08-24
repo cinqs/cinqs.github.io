@@ -1,5 +1,6 @@
 ---
 layout: default
+permalink: /pdf/
 ---
 
 <div class="row">
