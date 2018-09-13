@@ -26,6 +26,9 @@ print num_to_roman(101)
 # CI
 ```
 
+> ***数据科学家基本素养***
+1. 不说程度副词：基本上，马上，大约...
+
 >  ***Well, it is now more obvious that***
 >
 >  - Modelling is the first priority you should take seriously.
