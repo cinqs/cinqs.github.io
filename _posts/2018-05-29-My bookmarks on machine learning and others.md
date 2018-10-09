@@ -3,6 +3,10 @@ layout: post
 title: my bookmarks on machine learning and others
 ---
 
+### 工具类
+
+预编译的Python Wheel科学计算包 [https://www.lfd.uci.edu/~gohlke/pythonlibs/](https://www.lfd.uci.edu/~gohlke/pythonlibs/)
+
 ### 综合类
 [https://arxiv.org/](https://arxiv.org/)
 
