@@ -18,16 +18,13 @@ Hi, There
 
 ```py
 
-print french_to_num(CINQ)
+print french2num(CINQ)
 # 5
-print num_to_bin(5)
+print num2bin(5)
 # 101
-print num_to_roman(101)
+print num2roman(101)
 # CI
 ```
-
-> ***数据科学家基本素养***
-1. 不说程度副词：基本上，马上，大约...
 
 >  ***Well, it is now more obvious that***
 >
