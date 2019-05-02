@@ -6,7 +6,7 @@ permalink: /about/
 
 Hi, There
 
-一份简要的[简历](/cv/cv-modified-chinese.pdf)
+一份简要的[简历](/cv/cv.pdf)
 
 [LinkedIn](http://www.linkedin.com/in/abnersoong) \| [GitHub](https://github.com/cinqs) \| [dockers](https://hub.docker.com/u/cinqsoong/) \| ![email_pic](/images/email.png)
 
