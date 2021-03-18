@@ -38,4 +38,4 @@ print num2roman(101)
 >
 >  - *through the work on the rubik\'s cube applying RL, I found that Q-learning is absolutely the first option you should try when the situation you are dealing with is limited. Q-learning is easy, fast, and reasonable for explanation*
 
-**BitCoin: ** *17qRHUt6TkkjgN4iyDLuj6zLCfE5WsYRAp*
+**BitCoin**:17qRHUt6TkkjgN4iyDLuj6zLCfE5WsYRAp 
