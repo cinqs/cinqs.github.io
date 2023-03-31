@@ -12,7 +12,7 @@ Hi, There
 
 **Ci Song / 宋辞**
 
-- Data Mining Engineer @ [ByteDance](https://bytedance.com/) Beijing China
+- Software Engineer @ [Damo Academy of Alibaba](https://damo.alibaba.com/) Hangzhou China
 
 经常被问起 *CINQS* 是什么意思，你看下面 / frequently been asked why *CINQS*:
 
